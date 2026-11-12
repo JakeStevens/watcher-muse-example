@@ -1,0 +1,8 @@
+[submodule "sdk/muse-gadget-sdk"]
+	path = sdk/muse-gadget-sdk
+	url = https://github.com/JakeStevens/muse-gadget-sdk.git
+	branch = watcher-detection
+[submodule "sdk/Seeed_Grove_Vision_AI_Module_V2"]
+	path = sdk/Seeed_Grove_Vision_AI_Module_V2
+	url = https://github.com/JakeStevens/Seeed_Grove_Vision_AI_Module_V2.git
+	branch = watcher-detection
